@@ -5,8 +5,8 @@
 
 \usepackage[
   ignoreheadfoot,
-  top=2 cm,
-  bottom=2 cm,
+  top=0.8 cm,
+  bottom=1 cm,
   left=2 cm,
   right=2 cm,
   footskip=1.0 cm,
