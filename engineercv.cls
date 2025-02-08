@@ -1,12 +1,12 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{engineercv}[2025/01/31 Engineer CV class v1.0]
 
-\LoadClass[10pt, letterpaper]{article}
+\LoadClass[11pt, letterpaper]{article}
 
 \usepackage[
   ignoreheadfoot,
-  top=1 cm,
-  bottom=1 cm,
+  top=2 cm,
+  bottom=2 cm,
   left=2 cm,
   right=2 cm,
   footskip=1.0 cm,
@@ -35,6 +35,8 @@
 \usepackage{ifthen}
 \usepackage{needspace}
 \usepackage{iftex}
+\usepackage{multicol}
+\usepackage{blindtext}
 
 \AtBeginEnvironment{adjustwidth}{\partopsep0pt}
 \pagestyle{empty}
@@ -47,7 +49,7 @@
 \makeatother
 \pagestyle{customFooterStyle}
 
-\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{0.05 cm}\titlerule]
 
 \newenvironment{twocolentry}[2][]{
   \def\secondColumn{#2}
@@ -62,9 +64,10 @@
 
 \pagenumbering{gobble}
 
-
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
 \usepackage[default]{raleway}
-\renewcommand*\familydefault{\sfdefault} 
+\renewcommand*\familydefault{\sfdefault}
+
+\newcommand{\cvsec}[1]{\section{\colorbox{black}{\textcolor{white}{#1}}}}
