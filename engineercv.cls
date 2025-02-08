@@ -20,7 +20,7 @@
 \usepackage{fontawesome5}
 \usepackage{amsmath}
 \usepackage[
-  pdftitle={Alireza Arzehgar CV},
+  pdftitle={Alireza Arzehgar Resume},
   pdfauthor={Alireza Arzehgar},
   pdfcreator={LaTeX with RenderCV},
   colorlinks=true,
