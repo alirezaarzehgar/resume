@@ -8,7 +8,36 @@ This base template is just for creating new branches and tailoring resume for ea
 
 [job link](https://career.snapp.ir/job/cloud-engineer-remote)
 
-## Job Description
+# Cover Letter
+Date: 2025-02-09
+
+Dear Erfan Zeinolabedin,
+
+As a passionate Cloud Engineer with over 4 years of experience, I have been a long-time fan of the Snapp development team. Working at Snapp feels like a dream, and if given the opportunity, I would be just as proud to be part of it as I am of my open-source contributions to the Go programming language and the valuable feedback I've received from senior developers at Google. I believe this position will make me even happier than I already am, as I am naturally a happy person.
+I am a quick learner, and reading technical books is a dopamine source for me.
+
+My journey began at the age of 15 when I wrote my first C code and spent my youth exploring Linux.
+4 years ago I got my first job as an Embedded Network Engineer at ZharfPooyan Toos when I was 17.
+In ZharfPooyan I worked on routers and switches using C and Unix-related technologies.
+I automated performance testing of network appliances and designed a robust network lab here.
+
+After my experience at ZharfPooyan, I became passionate about Cloud Computing and started my new journey
+with Golang, Docker and the backend field. But every time I designed a backend solution
+I kept in mind simplicity, correctness, being cloud-friendly and scalability.
+
+I start work at Asrez Co companies as a Golang Developer. I learned some cloud-related
+concepts and experience developing backend solutions. I developed a monitoring system with
+Prometheus & Grafana to visualize over 10K loads per minute.
+
+Like Asrez I was a Golang developer in Arttizens but I can mention that CI/CD and automated processes are one of my
+important roles here.
+
+If my story caught your interest, I invite you to hear a tale in an interview!
+
+Sincerely,
+Alireza Arzehgar
+
+# Job Description
 
 
 Cloud Engineer (Hybrid/Remote) Snapp
