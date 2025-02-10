@@ -8,6 +8,40 @@ This base template is just for creating new branches and tailoring resume for ea
 
 [Job link](https://careers.cafebazaar.ir/#/jobs/2666B8D49F)
 
+# Cover Letter
+Date: 2025-02-10
+
+Dear Prooshat Mehrvarzi,
+
+As a passionate Software Engineer with over 4 years of experience, I have been a long-time fan of the Cafe Bazaar.
+Working at Cafe Bazaar feels like a dream, and if given the opportunity, I would be just as proud to be part of it as I am of my open-source contributions, especially to the Go programming language.
+I believe this position will make me even happier than I already am, as I am naturally a happy person.
+I am a quick learner, and reading technical books is a dopamine source for me.
+
+My journey began at the age of 15 when I wrote my first C code and spent my youth exploring Linux.
+4 years ago I got my first job as an Embedded Network Engineer at ZharfPooyan Toos when I was 17.
+In ZharfPooyan I worked on routers and switches using C and Unix-related technologies.
+I automated performance testing of network appliances and designed a robust network lab here.
+
+After my experience at ZharfPooyan, I became passionate about Cloud Computing and started my new journey
+with Golang, Docker and the backend field. But every time I designed a backend solution
+I kept in mind simplicity, correctness, being cloud-friendly and scalability.
+
+I start work at Asrez Co companies as a Golang Developer. I learned some cloud-related
+concepts and experience developing backend solutions. I developed a monitoring system with
+Prometheus & Grafana to visualize over 10K loads per minute.
+
+Like Asrez I was a Golang developer in Arttizens and I developed over 10 applications for exchange infrastructure
+in a microservice architecture.
+
+If my story caught your interest, I invite you to hear a tale in an interview!
+
+Sincerely,
+
+Alireza Arzehgar
+
+Skype ID: live:.cid.78363b7f9529229a
+
 # Job description
 
 Cafe Bazaar is the most popular Android application in Iran, helping over 45 million active
