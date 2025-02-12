@@ -4,6 +4,25 @@ This LaTeX template is my resume. Feel free to use it for yourself.
 
 This base template is just for creating new branches and tailoring resume for each jobs.
 
+# STATUS: REJECTED
+
+Dear Alireza,
+
+Thank you for your application to the Golang Engineer role at Canonical.
+We are writing to let you know that we have reviewed your application.
+We regret to inform you that we shall not be progressing your application further for this particular role.
+
+We appreciate that you considered us for your next career step and hope that you maintain
+interest in Canonical and our products. If you would like to apply for other new openings
+we would be happy to consider you. As guidance we can consider your application for the
+same role once every six months, or across four separate roles in a six month period.
+
+Regards,
+
+Canonical Recruiting
+
+For further information on data collection, please refer to our recruitment privacy notice and privacy policy.
+
 # Job Description
 
 This is our general process for Golang engineers of all levels of seniority,
