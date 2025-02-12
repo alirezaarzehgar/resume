@@ -2,12 +2,9 @@ PAPER := resume
 COVER_LETTER := coverletter
 LATEX := pdflatex
 VIEWER := evince
-OUTNAME := "alirezaarzehar_$(shell date +"%d-%m-%Y").pdf"
+OUTNAME := "alirezaarzehar.pdf"
 
-all: out cv cl
-
-cl:
-	${LATEX} -output-directory=out/ ${COVER_LETTER}
+all: out cv
 
 cv:
 	${LATEX} -output-directory=out/ ${PAPER}
@@ -18,6 +15,3 @@ out:
 
 view:
 	${VIEWER} out/${OUTNAME}
-
-view-cl:
-	${VIEWER} out/${COVER_LETTER}.pdf
