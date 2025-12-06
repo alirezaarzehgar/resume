@@ -7,8 +7,8 @@
   ignoreheadfoot,
   top=1 in,
   bottom=1 in,
-  left=0.65 in,
-  right=0.65 in,
+  left=1 in,
+  right=1 in,
   footskip=1.0 cm,
 ]{geometry}
 \usepackage{titlesec}
