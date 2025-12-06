@@ -1,14 +1,14 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{engineercv}[2025/01/31 Engineer CV class v1.0]
 
-\LoadClass[11pt, letterpaper]{article}
+\LoadClass[11pt, a4paper]{article}
 
 \usepackage[
   ignoreheadfoot,
-  top=1 cm,
-  bottom=1 cm,
-  left=2 cm,
-  right=2 cm,
+  top=1 in,
+  bottom=1 in,
+  left=0.65 in,
+  right=0.65 in,
   footskip=1.0 cm,
 ]{geometry}
 \usepackage{titlesec}
@@ -51,15 +51,6 @@
 
 \titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{0.05 cm}\titlerule]
 
-\newenvironment{twocolentry}[2][]{
-  \def\secondColumn{#2}
-  \setcolumnwidth{\fill, 4 cm}
-  \begin{paracol}{2}
-  }{
-    \switchcolumn \raggedleft \secondColumn
-  \end{paracol}
-}
-
 \let\hrefWithoutArrow\href
 
 \pagenumbering{gobble}
@@ -72,3 +63,9 @@
 
 \newcommand{\cvsec}[1]{
 \section{\colorbox{black}{\textcolor{white}{#1}}}}
+
+\usepackage{enumitem}
+\setlist{nosep}
+\setlist[itemize]{topsep=0pt, partopsep=5pt, parsep=0pt, itemsep=0pt}
+\setlength{\parskip}{0pt}
+\setlength{\itemsep}{0pt}
