@@ -7,7 +7,7 @@ This base template is just for creating new branches and tailoring resume for ea
 # Cover Letter
 Date: 2025-02-15
 
-Dear Parisa Naeemi,
+Dear HR Team,
 
 As a Software Engineer with 3+ years of experience, I have worked with distributed systems and cloud solutions.
 My fields of interest include software engineering, data systems, and distributed systems.
