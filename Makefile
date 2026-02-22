@@ -1,13 +1,15 @@
 PAPER := resume
 LATEX := pdflatex
 VIEWER := evince
-OUTNAME := "alirezaarzehar_$(shell date +"%d-%m-%Y").pdf"
+OUTNAME := "alirezaarzehar"
+OUTNAME_DATE := "${OUTNAME}_$(shell date +"%d-%m-%Y")"
 
-all: out cv cl
+all: out cv
 
 cv:
 	${LATEX} -output-directory=out/ ${PAPER}
-	mv out/${PAPER}.pdf out/${OUTNAME}
+	cp out/${PAPER}.pdf out/${OUTNAME_DATE}.pdf
+	mv out/${PAPER}.pdf ${OUTNAME}.pdf
 
 out:
 	mkdir out
