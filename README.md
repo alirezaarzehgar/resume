@@ -5,7 +5,7 @@ This LaTeX template is my resume. Feel free to use it for yourself.
 This base template is just for creating new branches and tailoring resume for each jobs.
 
 # Cover Letter
-Date: 2025-02-15
+Date: 2026-02-22
 
 Dear HR Team,
 
@@ -44,41 +44,34 @@ Alireza Arzehgar
 
 
 # Job Description
-## Software Engineer (Golang) | Customer Retention
+## Software Engineer | Map
 
-#### Our Journey So Far
+### Our Journey So Far
 
 At Snapp, we’re redefining how cities move. Our ride-hailing and mobility platform connects millions of riders and drivers every day, delivering safe, reliable, and efficient transport solutions. Powered by real-time data and robust infrastructure, we make urban travel faster, simpler, and more sustainable.
 
 We operate with the mindset of a global tech leader and the agility of a startup, building services that scale across markets while staying responsive to local needs.
 
-### Your Impact
+Your Impact
+As a Software Engineer in Snapp’s Maps Team, you will build the core services behind search, Pin Fixing, and location intelligence across the pre-ride and ride lifecycle. Your work will directly affect how users search for places, choose pickup points, get ride recommendations, and experience fast, accurate, and reliable location-based features at scale. 
 
-Snapp’s Customer Retention team is growing and focused on strengthening user loyalty through scalable, data-driven features. As a Software Engineer (Golang), you’ll design and maintain cloud-native services, monitor and optimize system performance, and build retention-focused capabilities that enhance user satisfaction. You’ll work closely with cross-functional teams to deliver reliable, high-impact solutions for millions of users.
+This role is ideal for engineers who enjoy building backend systems that combine engineering and data science in high-traffic production environments.
 
-### What You’ll Drive Forward
-- Implement clean, maintainable, and scalable code.
-- Help maintain effective coding practices, including unit and integration tests, code reviews, and pair programming.
-- Work with advanced infrastructure technologies to ensure optimal performance and reliability.
-- Take ownership of assigned tasks and deliverables.
-- Prioritize tasks effectively and manage time efficiently.
-- Collaborate actively during design and architectural discussions.
-- Communicate effectively with a positive and confident attitude, fostering collaboration and teamwork.
-- Test the code thoroughly before handing it over.
-- Actively participate in meetings and maintain communication with other team member.
+What You’ll Drive Forward
+- Build and maintain scalable backend services (mainly in Go) that power map search, pin fixing, ride recommendation, and location-based flows.
+- Design APIs and data pipelines that support our map and location services
+- Improve performance, reliability, and accuracy of location-driven features under high concurrency and traffic.
+- Collaborate with product, data science, and mobile teams to integrate behavioral signals, geospatial logic, and experimentation (A/B tests).
+- Analyze system metrics, logs, and user behavior to diagnose issues and continuously improve search and pre-ride funnel quality.
+- Contribute to system design, architecture decisions, observability, and operational excellence of mission-critical services.
 
-### What Powers Your Drive
-- At least 3 years of software engineering industry.
-- Strong knowledge of Golang.
-- In-depth understanding of non-relational databases like MongoDB including best practices for database design.
-- Hands-on experience with relational databases: MariaDB/MySQL, PostgreSQL, SQL Server, or Oracle.
-- Experience with tools like Redis, RabbitMQ, and NATS.
-- Experience handling high traffic loads and processing large volumes of data.
-- Solid understanding of good design principles.
-- Familiarity with containers, Docker, and Kubernetes (K8s).
-- Strong communication skills with a positive attitude.
+What Powers Your Drive
+- Strong proficiency in Go (Golang) for building production-grade backend services.
+- Solid software engineering fundamentals: data structures, algorithms, API design, debugging, and clean code practices.
+- Experience with distributed systems or microservices in high-traffic environments.
+- Familiarity with search or retrieval systems (e.g., Elasticsearch) or a strong interest in learning them.
+- Experience with databases (SQL/NoSQL), caching layers, and performance optimization.
+- Understanding of system scalability, latency, observability, and reliability principles.
+- Familiarity with Docker, containers, and Kubernetes (or willingness to learn).
+- Bonus: exposure to geospatial data, location-based services, recommendation systems, or location-based services.
 
-Ready to Get on Board?
-
-Help us shape the future of ride-hailing and urban mobility. Submit your CV and let’s build smarter cities together.
-Share this job opening
