@@ -44,7 +44,7 @@ Alireza Arzehgar
 
 
 # Job Description
-## Software Engineer | Map
+## Software Engineer (Golang) | Carpooling
 
 ### Our Journey So Far
 
@@ -52,26 +52,34 @@ At Snapp, we’re redefining how cities move. Our ride-hailing and mobility plat
 
 We operate with the mindset of a global tech leader and the agility of a startup, building services that scale across markets while staying responsive to local needs.
 
-Your Impact
-As a Software Engineer in Snapp’s Maps Team, you will build the core services behind search, Pin Fixing, and location intelligence across the pre-ride and ride lifecycle. Your work will directly affect how users search for places, choose pickup points, get ride recommendations, and experience fast, accurate, and reliable location-based features at scale. 
+#### Your Impact
 
-This role is ideal for engineers who enjoy building backend systems that combine engineering and data science in high-traffic production environments.
+Snapp’s Carpooling team builds large-scale, real-time systems that power millions of rides every day. We focus on connecting passengers seamlessly while reducing traffic congestion and environmental impact. In this role, you’ll develop core business logic and scalable services, working closely with cross-functional teams to deliver reliable, high-impact mobility solutions.
 
-What You’ll Drive Forward
-- Build and maintain scalable backend services (mainly in Go) that power map search, pin fixing, ride recommendation, and location-based flows.
-- Design APIs and data pipelines that support our map and location services
-- Improve performance, reliability, and accuracy of location-driven features under high concurrency and traffic.
-- Collaborate with product, data science, and mobile teams to integrate behavioral signals, geospatial logic, and experimentation (A/B tests).
-- Analyze system metrics, logs, and user behavior to diagnose issues and continuously improve search and pre-ride funnel quality.
-- Contribute to system design, architecture decisions, observability, and operational excellence of mission-critical services.
+**What You’ll Drive Forward**
+- Architect, design, and deploy high-performance, scalable backend services for our platform. 
+- Implement clean, maintainable, and scalable code. 
+- Drive best practices for code quality, architectural consistency, and test coverage across the team's codebase. 
+- Help maintain effective coding practices, including unit and integration tests, code reviews, and pair programming. Test the code thoroughly before handing it over. 
+- Work with advanced infrastructure technologies to ensure optimal performance and reliability. 
+- Take full responsibility for the reliability and performance of services, including profound involvement in monitoring, alerting, capacity planning, incident response, and enhancing infrastructure. 
+- Take ownership of assigned tasks and deliverables, prioritize tasks effectively, and manage time efficiently. 
+- Work closely with product managers and other engineers to translate high-level requirements into robust technical specifications. 
+- Collaborate actively during design and architectural discussions. 
+- Communicate effectively with a positive and confident attitude, fostering collaboration and teamwork. 
+- Actively participate in meetings and maintain communication with other team members. 
+- Critically review code, provide constructive feedback, and proactively contribute to the technical roadmap, system design, and long-term architectural health of the platform 
 
-What Powers Your Drive
-- Strong proficiency in Go (Golang) for building production-grade backend services.
-- Solid software engineering fundamentals: data structures, algorithms, API design, debugging, and clean code practices.
-- Experience with distributed systems or microservices in high-traffic environments.
-- Familiarity with search or retrieval systems (e.g., Elasticsearch) or a strong interest in learning them.
-- Experience with databases (SQL/NoSQL), caching layers, and performance optimization.
-- Understanding of system scalability, latency, observability, and reliability principles.
-- Familiarity with Docker, containers, and Kubernetes (or willingness to learn).
-- Bonus: exposure to geospatial data, location-based services, recommendation systems, or location-based services.
+**What Powers Your Drive**
+- At least 3 years of industry experience in software engineering, with a proven ability to design, implement, and maintain robust, scalable, and well-structured distributed systems.
+- Strong proficiency in at least one modern, high-performance backend language (e.g., Golang, Java, Python, C#, C/C++).
+- Hands-on experience with deploying, monitoring, logging, and operating production cloud infrastructure (e.g., Kubernetes and Docker), including maintaining high-availability services.
+- Solid understanding of relational and NoSQL databases, with expertise in effective data modeling and experience optimizing complex queries.
+- Strong analytical and debugging skills, with the ability to diagnose and resolve complex performance and reliability issues in distributed systems.
+- Excellent communication skills, capable of clearly explaining complex technical concepts to both technical and non-technical audiences, with a collaborative mindset.
 
+**Nice To Have:**
+- Direct, hands-on experience developing production services in Golang. 
+- Experience in the mobility, ride-sharing, or logistics industry at scale. 
+- Deep familiarity with message queues (e.g., Kafka, RabbitMQ), event-driven architectures, and building resilient, asynchronous systems. 
+- Extensive experience with microservices architecture and container orchestration (Kubernetes) 
