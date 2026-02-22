@@ -62,7 +62,8 @@
 \renewcommand*\familydefault{\sfdefault}
 
 \newcommand{\cvsec}[1]{
-\section{\colorbox{black}{\textcolor{white}{#1}}}}
+  \section{\colorbox{black}{\textcolor{white}{#1}}}
+}
 
 \usepackage{enumitem}
 \setlist{nosep}
