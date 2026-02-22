@@ -11,8 +11,8 @@ Dear HR Team,
 
 As a Software Engineer with 3+ years of experience, I have worked with distributed systems and cloud solutions.
 My fields of interest include software engineering, data systems, and distributed systems.
-I have read 15+ technical books; for instance, in the last 6 months,
-I spent time reading Designing Data-Intensive Applications and Software Engineering at Google.
+I spent time reading Designing Data-Intensive Applications and Software Engineering at Google,
+and I'm currently reading Grokking System Design Interviews alongside my full-time job and university.
 I possess strong communication skills, and my leadership of the Mashhad Linux Users Group demonstrates my soft skills.
 
 My journey began at the age of 15 when I wrote my first C code and spent my youth exploring Linux.
