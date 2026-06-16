@@ -44,41 +44,30 @@ Alireza Arzehgar
 
 
 # Job Description
-## Software Engineer (Golang) | Customer Retention
+# Traefik Labs
+## Developers & Systems Engineers
 
-#### Our Journey So Far
+We are looking for developers & systems engineers to help our team improve Traefik.
 
-At Snapp, we’re redefining how cities move. Our ride-hailing and mobility platform connects millions of riders and drivers every day, delivering safe, reliable, and efficient transport solutions. Powered by real-time data and robust infrastructure, we make urban travel faster, simpler, and more sustainable.
+### Your Mission:
+- You will develop Traefik, our flagship product
+- You will work closely with Docker/Swarm, Kubernetes, Mesos, Rancher, …
+- You will be part of a super-active open source project
+- You will provide support to our user base
+- You will participate in Conferences & Meet-Ups
 
-We operate with the mindset of a global tech leader and the agility of a startup, building services that scale across markets while staying responsive to local needs.
+### What you’ll bring:
+- You love technical challenges!
+- You have proven and successful experience in a project that involved a microservices architecture
+- Open-Source technology belongs to your culture
+- Code quality matters to you
+- You work as a team, not as an individual
 
-### Your Impact
-
-Snapp’s Customer Retention team is growing and focused on strengthening user loyalty through scalable, data-driven features. As a Software Engineer (Golang), you’ll design and maintain cloud-native services, monitor and optimize system performance, and build retention-focused capabilities that enhance user satisfaction. You’ll work closely with cross-functional teams to deliver reliable, high-impact solutions for millions of users.
-
-### What You’ll Drive Forward
-- Implement clean, maintainable, and scalable code.
-- Help maintain effective coding practices, including unit and integration tests, code reviews, and pair programming.
-- Work with advanced infrastructure technologies to ensure optimal performance and reliability.
-- Take ownership of assigned tasks and deliverables.
-- Prioritize tasks effectively and manage time efficiently.
-- Collaborate actively during design and architectural discussions.
-- Communicate effectively with a positive and confident attitude, fostering collaboration and teamwork.
-- Test the code thoroughly before handing it over.
-- Actively participate in meetings and maintain communication with other team member.
-
-### What Powers Your Drive
-- At least 3 years of software engineering industry.
-- Strong knowledge of Golang.
-- In-depth understanding of non-relational databases like MongoDB including best practices for database design.
-- Hands-on experience with relational databases: MariaDB/MySQL, PostgreSQL, SQL Server, or Oracle.
-- Experience with tools like Redis, RabbitMQ, and NATS.
-- Experience handling high traffic loads and processing large volumes of data.
-- Solid understanding of good design principles.
-- Familiarity with containers, Docker, and Kubernetes (K8s).
-- Strong communication skills with a positive attitude.
-
-Ready to Get on Board?
-
-Help us shape the future of ride-hailing and urban mobility. Submit your CV and let’s build smarter cities together.
-Share this job opening
+### This position calls for the following qualities:
+- A very strong team spirit: we believe that the quality of our team is the number one asset of the Company
+- Extreme focus on meeting goals: we are fast growing, but this is just the beginning; we are an industry leader that strives for perfect execution
+- A creative mind who loves to share: while accomplishing goals requires focus, we do not work in silos; innovating and sharing matter to us
+- Anything from a serious interest to a definite passion for Open Source
+- Whatever your native language is, you have solid skills in English
+- While we practice remote working, the team regularly meets in real life;
+    the ambition is international – as is our users base – and the missions require various level of international traveling
